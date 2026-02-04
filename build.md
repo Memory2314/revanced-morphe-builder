@@ -1,3 +1,4 @@
+GooglePhotos: 7.61.0.860908034  
 YouTube: 20.14.43  
 YouTube-Morphe: 20.40.45  
 YouTube-anddea: 20.05.46  
