@@ -1,6 +1,6 @@
 {
-  "version": "20.40.45 (patches 1.10.0.mpp)",
-  "versionCode": 20260205,
-  "zipUrl": "https://github.com/Memory2314/revanced-morphe-builder/releases/download/20260205/youtube-morphe-magisk-v20.40.45-arm64-v8a.zip",
+  "version": "20.40.45 (patches 1.11.0.mpp)",
+  "versionCode": 20260207,
+  "zipUrl": "https://github.com/Memory2314/revanced-morphe-builder/releases/download/20260207/youtube-morphe-magisk-v20.40.45-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/Memory2314/revanced-morphe-builder/update/build.md"
 }
