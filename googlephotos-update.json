@@ -1,6 +1,6 @@
 {
-  "version": "7.61.0.860908034 (patches 5.48.0.rvp)",
-  "versionCode": 20260205,
-  "zipUrl": "https://github.com/Memory2314/revanced-morphe-builder/releases/download/20260205/googlephotos-revanced-magisk-v7.61.0.860908034-arm64-v8a.zip",
+  "version": "7.63.0.869312946 (patches 5.50.1.rvp)",
+  "versionCode": 20260216,
+  "zipUrl": "https://github.com/Memory2314/revanced-morphe-builder/releases/download/20260216/googlephotos-revanced-magisk-v7.63.0.869312946-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/Memory2314/revanced-morphe-builder/update/build.md"
 }
